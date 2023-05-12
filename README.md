@@ -8,7 +8,7 @@ This project aims to identify and segment different types of cancer diseases in 
 - Generate a report that describes the data preparation process, the models used for classification and segmentation, the training and testing times for each model, and the obtained results for classification and segmentation using different metrics such as accuracy, precision, recall, dice coefficient, and IOU.
 - Include screenshots of the segmentation results on the test images in the report.
 # Dataset
-The dataset used in this project can be found here. The dataset contains the following folders/files:
+The dataset used in this project can be found [here](https://drive.google.com/file/d/1VRG99lvzfhdC-YA5dfdj_a9IyMCl5WHH/view). The dataset contains the following folders/files:
 
 - Brain Cancer
   - Tumor
