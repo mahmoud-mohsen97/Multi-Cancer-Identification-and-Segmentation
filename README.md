@@ -1,6 +1,4 @@
 # Problem Statement
-Identification of different Cancer diseases is to determinefirst the type of scan (breast or brain in our case)and then determining whether the scan is normal or has a tumor and the type of tumor if exists,Disease detection is done with different deep learning tasks such as classification, object detection, Image segmentation, etc. In this project we will focus on applying Image classification and segmentation.
-
 This project aims to identify and segment different types of cancer diseases in brain and breast scans using deep learning techniques such as image classification and segmentation. The project uses a dataset containing images of brain cancer, tumor, no tumor, benign, malignant, and normal breast cancer.
 
 # Project Objectives
